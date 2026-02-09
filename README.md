@@ -1,8 +1,8 @@
 # 🔥 Hello There, Diego Here! 🔥
 
 ### About me:
-> * Sortware development Student in SENAC
-> * Sortware development Student in Alura
+> * Software development Student in SENAC
+> * Software development Student in Alura
 > * Musician
 
 ## Languages and tools i am learning:
